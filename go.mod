@@ -374,3 +374,5 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	k8s.io/apimachinery v0.28.6 // indirect
 )
+
+replace nhooyr.io/websocket v1.8.7 => nhooyr.io/websocket v1.8.17
